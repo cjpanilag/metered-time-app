@@ -10,7 +10,7 @@ _for research porposes only_
 ## Screen shot
 
 screen shot of running applicaiton
-![node js image](/images/screenshot.JPG)
+![node js image](/images/screenshot.jpg)
 
 ## Usage
 
